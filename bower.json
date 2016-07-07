@@ -1,0 +1,28 @@
+{
+  "name": "Boilerplate for HTML/Bootstrap",
+  "authors": [
+    "'Pedro <hshdev@gmail.com>"
+  ],
+  "description": "boilerplate file for beginning web projects with bootstrap and html5",
+  "main": "",
+  "keywords": [
+    "bootstrap",
+    "web",
+    "css",
+    "html",
+    "layout",
+    "design"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
